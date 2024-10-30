@@ -1,0 +1,4 @@
+[project]
+name = "Gnome-Settings-Toml-Tui"
+readme = "README.md"
+requires-python = ">=3.12"
