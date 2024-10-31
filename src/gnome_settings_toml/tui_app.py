@@ -1,8 +1,8 @@
-from textual.app import App, ComposeResult
-from textual import on
-from textual.containers import Horizontal, Vertical
-from textual.widgets import Footer, Button, LoadingIndicator, RichLog
 from gi.repository import Gio
+from textual import on
+from textual.app import App, ComposeResult
+from textual.containers import Horizontal, Vertical
+from textual.widgets import Button, Footer, LoadingIndicator, RichLog
 
 
 class Sidebar(Vertical):
